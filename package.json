@@ -1,0 +1,32 @@
+{
+  "name": "react-form-input",
+  "version": "1.0.0",
+  "description": "A nice form input component for React",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-file index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "form",
+    "input"
+  ],
+  "author": "Bobby Walker",
+  "license": "MIT",
+  "dependencies": {
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.3.3"
+  }
+}
