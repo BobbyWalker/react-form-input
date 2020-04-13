@@ -1,5 +1,5 @@
 {
-  "name": "react-form-input",
+  "name": "bw-react-form-input",
   "version": "1.0.0",
   "description": "A nice form input component for React",
   "main": "index.js",
@@ -12,8 +12,16 @@
     "form",
     "input"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BobbyWalker/react-form-input"
+  },
   "author": "Bobby Walker",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BobbyWalker/react-form-input/issues"
+  },
+  "homepage": "https://github.com/BobbyWalker/react-form-input",
   "dependencies": {
     "styled-components": "^5.0.1"
   },
